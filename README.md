@@ -16,7 +16,7 @@ yarn dev - starts a development server your application
 yarn build - build your application with production settings
 ```
 
-# Technologys
+# Technologies
 
 - React
 - React Dom
