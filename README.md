@@ -6,6 +6,10 @@ The app was created hands-on and all dependencies are installed manually.
 
 Tha app fetch and render a list of repositories from github public API.
 
+# Live Project
+
+![gif](./assets/18.07.2022_20.24.32_REC-_online-video-cutter.com_.gif)
+
 # Scripts
 
 ```

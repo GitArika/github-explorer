@@ -3,6 +3,9 @@ section.repository-list {
 
   h1 {
     margin-bottom: 16px;
+    strong {
+      color: #8257e6;
+    }
   }
 
   ul {
@@ -28,7 +31,7 @@ section.repository-list {
     p {
       font-size: 14px;
       color: #adbac7;
-      margin-top: 0px;
+      margin-top: 5px;
     }
 
     a {
@@ -36,7 +39,11 @@ section.repository-list {
       margin-top: 16px;
       text-decoration: none;
 
-      color: #8257e6;
+      background: #8257e6;
+      color: #fff;
+
+      padding: 5px 10px;
+      border-radius: 3px;
 
       opacity: 0.9;
 
